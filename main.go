@@ -1,2 +1,2 @@
-import the packeges
+package main
 func main() {}
